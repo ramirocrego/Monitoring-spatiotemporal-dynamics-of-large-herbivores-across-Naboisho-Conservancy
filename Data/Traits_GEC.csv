@@ -1,0 +1,12 @@
+Species,SciName,Mass,Height,Grass
+Hartebeest,Alcelaphus_buselaphus,136,115,0.89
+Eland,Tragelaphus_oryx,419,136,0.06
+Giraffe,Giraffa_camelopardalis,1010,306,0.01
+Grant's gazelle,Nanger_granti,52,85,0.04
+Impala,Aepyceros_melampus,50,84,0.22
+Thomson's gazelle,Eudorcas_thomsonii,18,60,0.61
+Topi,Damaliscus_lunatus,119.5,114,0.7
+Warthog,Phacochoerus_africanus,68,64,0.9
+Wildebeest,Connochaetes_taurinus,182,115,0.95
+Plains zebra,Equus_quagga,234,115,0.97
+Buffalo,Syncerus_caffer,599,145,0.62
