@@ -135,7 +135,7 @@ postAlpha <- rbind(alpha1df, alpha2df, alpha3df)
           plot.title=element_text(hjust=0.5,face='bold',size=12),
           panel.border=element_blank(), panel.grid=element_blank()) + ggtitle('Estimated number of groups'))
 
-ggsave(file = "./Naboisho/Figures/ParametersNG.jpg", plot = pNG, width = 9, height = 4)
+ggsave(file = "./Figures/ParametersNG.jpg", plot = pNG, width = 9, height = 4)
 
 
 #########################################
