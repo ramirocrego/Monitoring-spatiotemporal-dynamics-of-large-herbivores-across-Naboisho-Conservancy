@@ -54,9 +54,7 @@ data <- droplevels(data)
 
 # Table 1
 table1 <- ddply(data, ~ Species, dplyr::summarise, NrGropus = n(), abu = sum(GroupSize), meanGS = mean(GroupSize), MinGS = min(GroupSize), maxGS = max(GroupSize))
-#write.csv(table1, file = "./Table1.csv")
-
-save(data, file = ".Data/DistData2")
+write.csv(table1, file = "./ModelOutput/Table1.csv")
 
 ##################################################
 #Create observation array (rep x site x species)
