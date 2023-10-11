@@ -324,3 +324,10 @@ MCMCtrace(mc, params = 'sig_beta0', priors = PR2, pdf = FALSE)
 # Following Gimenez et al. (2009), overlap should be < 0.35
 
 
+# This code has been developed thanks to the code provided by:
+
+# Kéry, M., and J. A. Royle. 2016. Applied Hierarchical Modeling in Ecology. Analysis and distribution, abundance and species richness in R and BUGS. Volume 1. Academic Press, London, UK.
+# Kéry, M., and J. A. Royle. 2021. Applied Hierarchical Modeling in Ecology. Analysis and distribution, abundance and species richness in R and BUGS. Volume 2. Academic Press, London, UK.
+# Gimenez, O., B. Morgan, and S. Brooks. 2009. Weak identifiability in models for mark-recapture-recovery data. Pages 1055–1067 Modeling Demographic Processes in Marked Populations. Springer, New York, USA.
+# Farr, M. T., D. S. Green, K. E. Holekamp, G. J. Roloff, and E. F. Zipkin. 2019. Multispecies hierarchical modeling reveals variable responses of African carnivores to management alternatives. Ecological Applications 29:e01845
+# Sollmann, R., B. Gardner, K. A. Williams, A. T. Gilbert, and R. R. Veit. 2016. A hierarchical distance sampling model to estimate abundance and covariate associations of species and communities. Methods in Ecology and Evolution 7:529–537.
